@@ -7,4 +7,4 @@ before step 5 i have created this respo and then made a file and created the por
 step-5 to clone github in  terminal type command - git clone  https://github.com/Ekv3104-hub/LNB-Project.git
 step-6 to check the git respo is hosted or in terminal by cd LNB-Project
 step7 now do cd .. and come back to /var/www/html and then start and enable the apache2 server to host the git by code - systemct start apache2 and systemctl enable apache2
-now check the git hosted file by the public ip address-
+now check the git hosted file by the public ip address-13.233.126.233(may be change in future)
