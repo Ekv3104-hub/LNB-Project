@@ -3,5 +3,8 @@ step 1-update the system of ubuntu terminal by code-apt update
 step-2 install the apache2 server in machine by code-apt install apache2
 step-3 install the git in machineby code- apt install git -y
 step-4 now move to location in terminal- var then www then html and then remove index.html by these commands- cd /var/www/html and rm index.html
-before step 5 i have created this respo and then made a file and created the portfolio html in github and named it as index.html and also created css file named as style.css
-step-5 to clone github in  terminal type command - git clone
+before step 5 i have created this respo and then made a file and created the portfolio html in github and named it as indexportfolio.html and also created css file named as style.css
+step-5 to clone github in  terminal type command - git clone  https://github.com/Ekv3104-hub/LNB-Project.git
+step-6 to check the git respo is hosted or in terminal by cd LNB-Project
+step7 now do cd .. and come back to /var/www/html and then start and enable the apache2 server to host the git by code - systemct start apache2 and systemctl enable apache2
+now check the git hosted file by the public ip address-
